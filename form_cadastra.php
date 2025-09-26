@@ -15,6 +15,9 @@
             </div>
 
             <button type="submit" class="btn btn-primary">Cadastrar</button>
+            <a href="index.php">
+                <button type="button" class="btn btn-primary">Voltar</button>
+            </a>
         </form>
     </div>
 
